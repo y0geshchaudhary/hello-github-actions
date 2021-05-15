@@ -4,6 +4,8 @@ This course will walk you through writing your first action and using it with a 
 
 **Ready to get started? Navigate to the first issue.**
 
+**Added below badges.**
+
 [![A workflow for my Hello World file](https://github.com/y0geshchaudhary/hello-github-actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/y0geshchaudhary/hello-github-actions/actions/workflows/main.yml)
 
 [![A workflow for my Hello World file](https://github.com/y0geshchaudhary/hello-github-actions/actions/workflows/main.yml/badge.svg)](https://github.com/y0geshchaudhary/hello-github-actions/actions/workflows/main.yml)
